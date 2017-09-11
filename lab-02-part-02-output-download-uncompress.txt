@@ -107,22 +107,17 @@ Copy and paste the output below, but not the whole thing!  Just copy up to the p
 
 ==========
 10. That's great, but what if I want to save the file?  What flag/option and option argument would I use to download the page to a file called google.html?  Run it to download the URL www.google.com.
-curl
 Write the command you used below.  Also copy and paste the output below.
 ----------
-curl www.google.com
 
 ==========
-11. Now let'sdownload the lab file for this homework.  First, figure out what directory you're in.
+11. Now let's download the lab file for this homework.  First, figure out what directory you're in.
 
 Write the command you used to determine your directory.  Also, copy and paste the output below.
-curl -o filename.txt www.google.com
+
 
 ----------
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-100 11172    0 11172    0     0  19039      0 --:--:-- --:--:-- --:--:-- 62066
-
+ 
 
 ==========
 12. If you're not in your home directory, change to it (use the shortcut).
