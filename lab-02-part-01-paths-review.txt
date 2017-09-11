@@ -19,7 +19,7 @@ cd /
 ==========
 2. Write the command that you would use to change to your home directory.
 ----------
-cd username
+cd ~
 
 
 ==========
@@ -60,7 +60,7 @@ mkdir stuff
 ==========
 9. If you're in your root directory, how would you create a new directory on your desktop called more-stuff without changing your directory?  Write your command below.
 ----------
-mk
+mkdir
 
 
 ==========
