@@ -60,13 +60,14 @@ mkdir stuff
 ==========
 9. If you're in your root directory, how would you create a new directory on your desktop called more-stuff without changing your directory?  Write your command below.
 ----------
-mkdir
-
+mkdir -p more-stuff
+(if it is a folder inside a folder it would be) mkdir -p more/stuff
 
 ==========
 10. If you're in your Desktop directory, how would you create a new directory on your desktop called even-more-stuff?  Write your command below.
 ----------
-
+mkdir -p even-more-stuff
+(if it is folders inside folders then it would be) mkdir -p even/more/stuff
 
 
 ==========
